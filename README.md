@@ -9,7 +9,7 @@
 
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,py,js,html,css,)](https://skillicons.dev)
 
 ## 🛠️ Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=unity,eclipse,androidstudio,git,vscode,idea)](https://skillicons.dev)
