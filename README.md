@@ -2,12 +2,11 @@
 
 💻 Estudante de Programação na UEPB | 🌍 Apaixonado por Tecnologia 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?FelipeHM-code=anuraghazra&show_icons=true&theme=transparent)
 
 
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,py,js,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cs,cpp,py,js,html,css,)](https://skillicons.dev)
 
 ## 🛠️ Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=unity,eclipse,androidstudio,git,vscode,idea)](https://skillicons.dev)
